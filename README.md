@@ -8,7 +8,7 @@ DOCENTE: CARLOS BARBOSA GOMES FILHO
 
 ALUNO: AMANDA THAYANE DE ANDRADE SIQUEIRA
 
-MAIL:  amandathayaneas@gmail.com
+email: amandathayaneas@gmail.com
 
 ALUNO: HELIO GOMES BARRETO GABI FILHO
 
